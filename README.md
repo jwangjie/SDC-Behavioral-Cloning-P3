@@ -5,8 +5,7 @@
 
 For project details, please read [Behavioral Cloning.pdf](https://github.com/jwangjie/SDC-Behavioral-Cloning-P3/blob/master/Behavioral%20Cloning.pdf). 
 --
-The simulation result is [here](https://www.youtube.com/watch?v=1DOOKX389vY)
---
+## My simulation evaluation:[![My simulation video](https://github.com/jwangjie/SDC-Behavioral-Cloning-P3/blob/master/End%20to%20end%20learning.png)](https://www.youtube.com/watch?v=1DOOKX389vY)
 
 
 Overview
